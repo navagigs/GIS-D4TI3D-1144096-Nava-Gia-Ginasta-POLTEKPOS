@@ -1,15 +1,15 @@
 1 meeting Geographic Information System:
 =====================================
 
-** What is the system? **
+**What is the system?**
 system is a network of procedures mutually-presedure
 related.
 
 
-**  What is the information? ** 
+**What is the information?** 
 information is data that has been processed into something of information
 
-** What it Geographic? ** 
+**What it Geographic?** 
 Geographically it lies a region or regions that are on the surface of the earth
 
 Geographic Information System is an information system that describes the Earth's surface, which is where the earth's surface consists of coordinates generated from pieces between the latitude and longitude that shows an object.
