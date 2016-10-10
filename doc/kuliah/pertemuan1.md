@@ -16,6 +16,7 @@ Geographic Information System is an information system that describes the Earth'
 longitude is called longitude and latitude coordinates called latitude. longitude and latitude is a system coodinates graphics were used to determine the location of a place dipermukan earth.
 
 
-QGIS QGIS is one of the software for the development of Geographic Information Systems.
+**QGIS**
+QGIS is one of the software for the development of Geographic Information Systems.
 Open Street Map (OPM) OPM is one powerful software, from the information we receive, the truth is the information we received from OPM is geographic data from around the world. Even data that is difficult to be found.
 Beisdes a necessary software, GIS requires hardware support GPS (Global Positioning System) is a system to determine where on the earth, we can know the GPS location we are.
