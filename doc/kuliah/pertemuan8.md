@@ -1,0 +1,1 @@
+At last week's meeting we have discussed what are the things about Map Server. Need we recall that, MapServer is a freeware and open source application that allows us to show the spatial data (maps) on the web. At this meeting we will discuss about how to install it from the Map Server.
